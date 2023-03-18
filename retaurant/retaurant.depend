@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1679157660 source:e:\core programming\learn c\assignmentfinalterm-cse121-id(230121005)\retaurant\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

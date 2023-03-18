@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1679067405 source:e:\core programming\learn c\assignmentfinalterm-cse121-id(230121005)\countvowels\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
